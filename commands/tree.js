@@ -43,4 +43,4 @@ function treeFn(dirPath)
 }
 module.exports = {
     treeKey : treeFn
-}
+};

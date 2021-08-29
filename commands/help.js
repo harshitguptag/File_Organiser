@@ -7,4 +7,5 @@ function helpFn(dirPath)
 }
 module.exports={
     helpKey: helpFn
-}
+};
+
