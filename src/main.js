@@ -6,10 +6,6 @@ let path = require("path");
 let helpobj = require("../commands/help");
 let treeobj = require("../commands/tree");
 let orgobj = require("../commands/organise");
-// console.log(inputArr);
-// node main.js tree "diectorypath"
-// node main.js organise "diectorypath"
-// node main.js help
 
 let command = inputArr[0];
 
@@ -29,3 +25,4 @@ switch (command)
         break;
 }
 
+//Here is my Contribution.
